@@ -3,3 +3,13 @@ C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0
 C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\Task 11.AssemblyInfoInputs.cache
 C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\Task 11.AssemblyInfo.cs
 C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\Task 11.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\bin\Debug\net6.0\Task 11.exe
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\bin\Debug\net6.0\Task 11.deps.json
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\bin\Debug\net6.0\Task 11.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\bin\Debug\net6.0\Task 11.dll
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\bin\Debug\net6.0\Task 11.pdb
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\Task 11.dll
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\refint\Task 11.dll
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\Task 11.pdb
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\Task 11.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C# Homework_4\Task 11\obj\Debug\net6.0\ref\Task 11.dll

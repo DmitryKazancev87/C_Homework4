@@ -8,20 +8,20 @@ int EnterInfomation(string message)
 }
 int NumberA = EnterInfomation(" Введите число A : ");
 int NumberB = EnterInfomation(" Введите число B : ");
+Degree(NumberA, NumberB);
 
 // Функция ввода в степень
 
 void Degree(int a, int b)
 {
     int result = 1;
-    for (int i = 1, i < = b, i++)
+    for (int i = 1; i <= b; i++)
     {
         result = result * a;
     }
     Console.WriteLine(result);
 }
 
-Degree(NumberA, NumberB);
 
 // Ввод через фунцию EnterInformation:
 
