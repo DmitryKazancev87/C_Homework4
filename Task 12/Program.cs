@@ -28,7 +28,7 @@ void SumNumbers (int N, int Length)
 int sum=0;
 for (int i=1; i<=Length;i++)
 {
-sum=sum%10;
+sum=sum+N%10;
 N=N/10;
 }
 System.Console.WriteLine(sum);
